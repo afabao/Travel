@@ -3,7 +3,7 @@
         PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="com.afabao.travel.dao.TestDao">
-    <select id="list" resultType="Test">
+    <select id="list" resultType="com.afabao.travel.test.Test">
         SELECT * FROM TEST
     </select>
 </mapper>

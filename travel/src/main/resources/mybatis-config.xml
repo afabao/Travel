@@ -6,6 +6,6 @@
         <!--开启自动驼峰命名规则-->
         <setting name="mapUnderscoreToCamelCase" value="true"/>
         <!--缓存-->
-        <setting name="cacheEnable" value="true"/>
+        <!--<setting name="cacheEnable" value="true"/>-->
     </settings>
 </configuration>
